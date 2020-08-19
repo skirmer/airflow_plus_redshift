@@ -10,7 +10,7 @@
 
 Yeah, I have too many subtitles for this one. Oh well! Welcome!
 
-This repo contains the materials for my upcoming ODSC Europe 2020 talk. Please join me on September 19 at 2:55 PM BST (GMT +1) to see the presentation live and ask your own questions. Or, you can tweet at me @data_stephanie to ask ahead of time.
+This repo contains the materials for my upcoming [ODSC Europe 2020 talk](https://odsc.com/speakers/making-happy-modelers-build-and-maintain-your-data-warehouse-with-aws-redshift-and-airflow/). Please join me on September 19 at 2:55 PM BST (GMT +1) to see the presentation live and ask your own questions. Or, you can tweet at me @data_stephanie to ask ahead of time.
 
 To prepare for this talk, you don't need to install anything, it's purely instructional, not a hands on workshop. However, if you want to get a leg up, you can mess around with Airflow for free because it is an open source tool.
 
